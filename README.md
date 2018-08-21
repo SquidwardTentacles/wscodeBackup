@@ -1,8 +1,8 @@
 # wscodeBackup  
 
-token.id: 1cf1a3b2b2eb7491234180c840a7e1f3dfabb85f
+token.id: fd02428319566487b80b43553da89482 .请在其他计算机上复制并使用此ID以下载设置.
 
-key : 69af8159bec02fbde50778747dd8369c 
+token : 32ea9125df543b33bd948c3cc24d0b9675c94f3a
 
 alt+shift+d  下载上传的配置 
 alt+shift+u 上传配置 
